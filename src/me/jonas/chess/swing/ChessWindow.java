@@ -1,4 +1,4 @@
-package me.jonas.chess;
+package me.jonas.chess.swing;
 
 import javax.swing.*;
 import java.awt.*;
